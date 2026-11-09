@@ -1,0 +1,12 @@
+{
+  "group_name": "جروب المراجعة",
+  "timezone": "Africa/Cairo",
+  "send_time": "06:00",
+  "start_date": "2026-11-10",
+  "from_surah": 1,
+  "to_surah": 114,
+  "pages_per_day": 10,
+  "rest_weekday": null,
+  "chat_id": null,
+  "send_completion_message": true
+}
